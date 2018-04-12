@@ -1,1 +1,1 @@
-$szy$ && $zhw$ 的 OOP 大作业
+szy && zhw 的 OOP 大作业
